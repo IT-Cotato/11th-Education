@@ -13,10 +13,10 @@ IT 연합동아리 '코테이토' 11기 교육팀 발표 자료 폴더입니다.
 
 # Members
 
-| <img src="https://github.com/WONYOUNG-HC.png" width=120/> | <img src="https://github.com/chanmin-00.png" width=120/> | <img src="https://github.com/minij02.png" width=120 /> |
-| :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: |
-|         [조원영](https://github.com/WONYOUNG-HC)          |         [정찬민](https://github.com/chanmin-00)          |          [류민주](https://github.com/minij02)          |
-|                    [ 8기 FE ] 교육팀장                    |                   [ 10기 BE ] 교육팀원                   |                  [ 11기 FE ] 교육팀원                  |
+| <img src="https://github.com/WONYOUNG-HC.png" width=120/> | <img src="https://github.com/chanmin-00.png" width=120/> | <img src="https://github.com/minij02.png" width=120 /> | <img src="https://github.com/DandelionQZ.png" width=120 /> |
+| :-------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+|         [조원영](https://github.com/WONYOUNG-HC)          |         [정찬민](https://github.com/chanmin-00)          |          [류민주](https://github.com/minij02)          |          [양희정](https://github.com/DandelionQZ)          |
+|                    [ 8기 FE ] 교육팀장                    |                   [ 10기 BE ] 교육팀원                   |                  [ 11기 FE ] 교육팀원                  |                  [ 11기 FE ] 교육팀원                  |
 
 # What we Studied
 
